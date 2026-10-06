@@ -1,0 +1,15 @@
+{
+  "name": "yukyol",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yük sahipleri ve taşıyıcıları buluşturan yük pazarı (statik uygulama)",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "dev": "npx --yes serve .",
+    "test": "node tests/run.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
